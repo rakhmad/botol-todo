@@ -1,0 +1,6 @@
+bottle==0.10.9
+bottle-sqlite==0.1.2
+distribute==0.6.21
+mercurial==1.9.1
+virtualenvwrapper==2.9
+wsgiref==0.1.2
